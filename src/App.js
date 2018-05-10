@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
-import NavBar from './components/NavBar';
-import Button from './components/Button';
-import phone from './static/phone.png';
-import './App.css';
+import React, { Component } from "react";
+import NavBar from "./components/NavBar/NavBar";
+import Button from "./components/Button/Button";
+import phone from "./static/phone.png";
+import "./App.css";
 
 class App extends Component {
   render() {

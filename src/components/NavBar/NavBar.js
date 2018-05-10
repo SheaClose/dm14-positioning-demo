@@ -1,5 +1,5 @@
-import React from 'react';
-import ham from '../static/ham.png';
+import React from "react";
+import ham from "../../static/ham.png";
 
 export default () => (
   <nav>

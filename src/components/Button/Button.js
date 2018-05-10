@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default () => (
   <button className="btn" type="button" name="button">
