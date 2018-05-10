@@ -1,0 +1,17 @@
+nav {
+  align-items: center;
+  padding: 0 25px;
+  color: white;
+}
+
+.links-container {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+}
+
+.link {
+  font-family: "Poppins", cursive;
+  font-size: 1.25em;
+  font-weight: 300;
+}
